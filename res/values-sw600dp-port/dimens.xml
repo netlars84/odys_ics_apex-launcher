@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="workspace_width_gap">0.0dip</dimen>
+    <dimen name="workspace_height_gap">32.0dip</dimen>
+    <dimen name="workspace_horizontal_margin_small">8.0dip</dimen>
+    <dimen name="workspace_horizontal_margin_medium">16.0dip</dimen>
+    <dimen name="workspace_horizontal_margin_large">32.0dip</dimen>
+    <dimen name="workspace_vertical_margin_small">82.0dip</dimen>
+    <dimen name="workspace_vertical_margin_medium">164.0dip</dimen>
+    <dimen name="workspace_vertical_margin_large">212.0dip</dimen>
+    <dimen name="apps_customize_cell_width">96.0dip</dimen>
+    <dimen name="apps_customize_cell_height">96.0dip</dimen>
+    <dimen name="dock_horizontal_margin_small">8.0dip</dimen>
+    <dimen name="dock_horizontal_margin_medium">16.0dip</dimen>
+    <dimen name="dock_horizontal_margin_large">32.0dip</dimen>
+    <dimen name="workspace_left_padding">15.0dip</dimen>
+    <dimen name="workspace_right_padding">15.0dip</dimen>
+    <dimen name="workspace_top_padding">25.0dip</dimen>
+    <dimen name="workspace_bottom_padding">25.0dip</dimen>
+    <dimen name="workspace_page_spacing">16.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutWidthGap">24.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutHeightGap">36.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutPaddingTop">25.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutPaddingBottom">10.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutPaddingLeft">30.0dip</dimen>
+    <dimen name="apps_customize_pageLayoutPaddingRight">30.0dip</dimen>
+</resources>
