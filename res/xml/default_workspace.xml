@@ -17,6 +17,7 @@
         <favorite launcher:className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" launcher:packageName="com.google.android.youtube" />
         <favorite launcher:className="com.google.android.maps.driveabout.app.DestinationActivity" launcher:packageName="com.google.android.apps.maps" />
         <favorite launcher:className="com.google.android.apps.plus.phone.ConversationListActivity" launcher:packageName="com.google.android.apps.plus" />
+		<favorite launcher:className="com.android.contacts.activities.PeopleActivity" launcher:packageName="com.android.contacts" />
     </folder>
     <favorite launcher:className="com.android.gallery3d.app.Gallery" launcher:packageName="com.google.android.gallery3d" launcher:screen="3" launcher:x="1" launcher:y="3" />
     <favorite launcher:className="com.android.settings.Settings" launcher:packageName="com.android.settings" launcher:screen="3" launcher:x="2" launcher:y="3" />
